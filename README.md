@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/XSjKW2U6qHAAAAAC/smile-krupovich.gif)
+![MasterHead](https://media.tenor.com/XSjKW2U6qHAAAAAC/smile-krupovich.gif](https://media.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif))
 <h1 align="center">Hi👋 I'm Ruth</h1>
 <h3 align="center">Electrical Engineering Student at University of British Columbia (UBC)</h3>
 <img align="right" alt="Coding" width="400" src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3e0be72d-715c-4c08-9145-6e2cf372d1fa/d8t36ij-07e76480-ad39-49d7-985e-ff2083b0bf83.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNlMGJlNzJkLTcxNWMtNGMwOC05MTQ1LTZlMmNmMzcyZDFmYVwvZDh0MzZpai0wN2U3NjQ4MC1hZDM5LTQ5ZDctOTg1ZS1mZjIwODNiMGJmODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lSw5sTJ3nRrupnkXoSM_WS_Q8sXxordM_JLYjrM2SZk">
