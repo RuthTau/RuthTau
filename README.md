@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthtau&label=Profile%20views&color=0e75b6&style=flat" alt="ruthtau" /> </p>
 
-- 🔌 My latest project **Reflow Oven Controller**
+- 🔌 My latest project **Magnetic Field Remote Controlled Robot**
 
 - 🌱 I’m currently learning **System controls**
 
 - 💬 Ask me about **ELEC, Photography, Videography**
 
-- 📫 How to reach me **llruthtau007gll@gmail.com**
+- 📫 How to reach me **studio@ruthtau.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/yanyautau](www.linkedin.com/in/yanyautau)
+- 📄 Know about my experiences [www.linkedin.com/in/ruthtau](www.linkedin.com/in/ruthtau)
 
 - ⚡ Fun fact **sometimes I quite like ARM assembly language**
 
